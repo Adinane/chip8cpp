@@ -1,5 +1,5 @@
 export module VideoBuffer;
-
+//Adinane Mhoumadi 
 export import IVideoBuffer;
 
 import <cstdint>;
